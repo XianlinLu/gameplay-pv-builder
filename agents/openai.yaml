@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gameplay PV Builder"
+  short_description: "Build coherent, UI-safe gameplay demo videos"
+  default_prompt: "Use $gameplay-pv-builder to turn my game concept or reference video into a production-ready gameplay PV plan and shot package."

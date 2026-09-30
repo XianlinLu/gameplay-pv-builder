@@ -1,0 +1,42 @@
+{
+  "project": "",
+  "version": 1,
+  "timebase": {
+    "frame_rate": 30,
+    "resolution": "1920x1080",
+    "aspect_ratio": "16:9"
+  },
+  "shots": [
+    {
+      "id": "SH010",
+      "section": "guidance",
+      "duration_seconds": 4,
+      "purpose": "",
+      "player_action": "",
+      "mechanic": "",
+      "camera": "",
+      "start_state": "",
+      "end_state": "",
+      "continuity_anchors": [],
+      "ui_state": "",
+      "environment": "",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "audio_cues": [],
+      "source_asset_ids": [],
+      "keyframe_ids": [],
+      "generation_prompt": "",
+      "negative_constraints": [],
+      "status": "planned",
+      "qc_notes": []
+    }
+  ],
+  "audio_stems": [
+    "music",
+    "ambience",
+    "player_and_weapons",
+    "enemy_and_impacts",
+    "ui",
+    "voice"
+  ]
+}
